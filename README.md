@@ -8,7 +8,7 @@ This repository is a small, portable adapter layer for people who like Hermes Ag
 - persistent project instructions
 - reusable skill documents
 - systematic debugging and testing habits
-- project-specific operating rules, such as worktree workflows
+- project-specific operating rules, such as repository workflows
 
 It does not bypass Claude or Anthropic policy. It only gives Claude Code better context and better procedures.
 

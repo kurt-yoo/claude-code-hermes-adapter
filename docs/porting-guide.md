@@ -43,7 +43,7 @@ Use for always-on global or project guidance:
 
 Use for modular always-on rules in a project:
 
-- worktree workflow
+- branching workflow
 - testing commands
 - architecture notes
 - release process
